@@ -1,0 +1,11 @@
+C:\Users\rocio.mejia\source\repos\MysuperBank\bin\Debug\netcoreapp3.0\MysuperBank.exe
+C:\Users\rocio.mejia\source\repos\MysuperBank\bin\Debug\netcoreapp3.0\MysuperBank.deps.json
+C:\Users\rocio.mejia\source\repos\MysuperBank\bin\Debug\netcoreapp3.0\MysuperBank.runtimeconfig.json
+C:\Users\rocio.mejia\source\repos\MysuperBank\bin\Debug\netcoreapp3.0\MysuperBank.runtimeconfig.dev.json
+C:\Users\rocio.mejia\source\repos\MysuperBank\bin\Debug\netcoreapp3.0\MysuperBank.dll
+C:\Users\rocio.mejia\source\repos\MysuperBank\bin\Debug\netcoreapp3.0\MysuperBank.pdb
+C:\Users\rocio.mejia\source\repos\MysuperBank\obj\Debug\netcoreapp3.0\MysuperBank.csprojAssemblyReference.cache
+C:\Users\rocio.mejia\source\repos\MysuperBank\obj\Debug\netcoreapp3.0\MysuperBank.AssemblyInfoInputs.cache
+C:\Users\rocio.mejia\source\repos\MysuperBank\obj\Debug\netcoreapp3.0\MysuperBank.AssemblyInfo.cs
+C:\Users\rocio.mejia\source\repos\MysuperBank\obj\Debug\netcoreapp3.0\MysuperBank.dll
+C:\Users\rocio.mejia\source\repos\MysuperBank\obj\Debug\netcoreapp3.0\MysuperBank.pdb
